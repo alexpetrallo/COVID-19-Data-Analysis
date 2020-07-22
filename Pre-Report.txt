@@ -1,10 +1,10 @@
-Introduction/Business Problem
+Introduction/Business Problem:
 With the rapid growth of jobs relating to data, specifically the data scientist and analysis positions, 
 it is important to understand the salaries, locations, sector, and other details of the job offerings in 
 this field. My project will take data on over two thousand jobs in this field and compare them in order 
 to gain insights that can help myself and others in finding the right job. 
 
-Introduction/Business Problem
+Data:
 I will be using a data set from Kaggle on 2253 data job postings in the United States. The data includes 
 information on location, salary, seniority, sector and industry, size of company, age of company, and job 
 rating. I hope to use this data to gather insights that can tell me how heavily certain aspects may affect 
